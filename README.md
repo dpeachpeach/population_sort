@@ -4,7 +4,7 @@ Inspired by other whimsical sorting algorithms such as [bogosort](https://yaav.l
 
 As the former name implies, I was inspired to design this sorting algorithm off of [Malthusian Population Theory](https://en.wikipedia.org/wiki/Malthusianism), which states that population increases geometrically past it's theoretical 'max bound' until it collapses geometrically back to its bound, after which it gradually hovers around the bound in a pseudo-equilibrium.
 
-I was apprehensive to publish the initial Malthusian algorithm due to its incredible inefficiency. I want to return a sorted list with the length of it resembling the 'population bound' provided by the user, however the initial algorithm was far too inefficient.
+I was apprehensive to publish the initial Malthusian algorithm due to its incredible inefficiency. I want to return a sorted list with the length of it resembling the 'population bound' provided by the user, however the initial algorithm was way too slow.
 
 Population sort aims to reach the population bound provided by either culling the population or by birthing new members. After reaching the bound, the population sorts itself through continuous life cycles until it is sorted. 
 
