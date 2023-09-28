@@ -8,8 +8,8 @@ I was apprehensive to publish the initial Malthusian algorithm due to its incred
 
 Population sort aims to reach the population bound provided by either culling the population or by birthing new members. After reaching the bound, the population sorts itself through continuous life cycles until it is sorted. 
 
-Although this algorithm was initially designed as a complete joke, it has some cool properties. The most interesting of which I found being: Just like a population of people / animals isolated from the outside world, both genotype and phenotype of the population of the organisms will gradually become more and more alike, just like the values in Popsort.
+Although this algorithm was initially designed as a complete joke, it has some cool properties. The most interesting of which I found being: Just like a population of people / animals isolated from the outside world, both genotype and phenotype of the population of the organisms will gradually become more and more alike, just like the values present in the list fed to popsort.
 
-The algorithm isn't completely finished, I'd like to wrap up some unit tests and then publish it onto PyPi, maybe post it on hackernews or something and get a meme video formed from it. 
+The algorithm isn't completely finished, I'd like to wrap up some unit tests and then publish it onto PyPi, maybe post it on hackernews or something and get a meme video uploaded for it. 
 
 I also plan to post Malthusian Sort shortly after completing this project in a different language, preferably C++ or Rust, one that can handle the performance requirements.
